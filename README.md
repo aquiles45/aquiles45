@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/aquiles45/aquiles45/main/header.png" width="100%" alt="Aquiles Almeida â€” Seguranca Ofensiva: AppSec & Pentest Web"/>
+<img src="https://raw.githubusercontent.com/aquiles45/aquiles45/main/header.png" width="100%" alt="Aquiles Almeida — Seguranca Ofensiva: AppSec & Pentest Web"/>
 
 <div align="center">
 
@@ -11,16 +11,16 @@
 
 </div>
 
-## ðŸ‘‹ Sobre
+## 👋 Sobre
 
-**SeguranÃ§a Ofensiva â€” AppSec & Pentest Web** Â· Estudante de CiberseguranÃ§a na **FIAP** (Ãºltimo ano) Â· buscando **estÃ¡gio / jÃºnior**.
+**Segurança Ofensiva — AppSec & Pentest Web** · Estudante de Cibersegurança na **FIAP** (último ano) · buscando **estágio / júnior**.
 
-Gosto do que estÃ¡ escondido: **achar a falha que ninguÃ©m viu, provar o impacto real e mostrar o caminho seguro pra corrigir.** MÃ©todo, nÃ£o sorte:
-`enumeraÃ§Ã£o â†’ exploraÃ§Ã£o em laboratÃ³rio autorizado â†’ impacto â†’ mitigaÃ§Ã£o â†’ relatÃ³rio claro`.
+Gosto do que está escondido: **achar a falha que ninguém viu, provar o impacto real e mostrar o caminho seguro pra corrigir.** Método, não sorte:
+`enumeração → exploração em laboratório autorizado → impacto → mitigação → relatório claro`.
 
-ðŸ“ SÃ£o Paulo â€” presencial ou remoto Â· ðŸ—£ï¸ PortuguÃªs nativo Â· InglÃªs intermediÃ¡rio
+📍 São Paulo — presencial ou remoto · 🗣️ Português nativo · Inglês intermediário
 
-## ðŸ§° Stack
+## 🧰 Stack
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00eeff)
 ![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=00eeff)
@@ -30,22 +30,22 @@ Gosto do que estÃ¡ escondido: **achar a falha que ninguÃ©m viu, provar o imp
 ![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logoColor=39ff14)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00eeff)
 
-**AppSec / Web:** OWASP Top 10 Â· Burp Suite Â· Nmap Â· enumeraÃ§Ã£o web Â· SQLi Â· XSS Â· IDOR Â· falhas de autenticaÃ§Ã£o Â· upload bypass *(praticados em laboratÃ³rio)*
-**Em estudo:** fundamentos de Active Directory / pentest interno Â· BloodHound Â· Red Team Operations
+**AppSec / Web:** OWASP Top 10 · Burp Suite · Nmap · enumeração web · SQLi · XSS · IDOR · falhas de autenticação · upload bypass *(praticados em laboratório)*
+**Em estudo:** fundamentos de Active Directory / pentest interno · BloodHound · Red Team Operations
 
-## ðŸ›¡ï¸ Projeto em destaque
+## 🛡️ Projeto em destaque
 
 [![Angel Guard](https://github-readme-stats.vercel.app/api/pin/?username=aquiles45&repo=angel-guard&theme=tokyonight&hide_border=true&title_color=00eeff&icon_color=39ff14)](https://github.com/aquiles45/angel-guard)
 
-**[Angel Guard](https://github.com/aquiles45/angel-guard)** â€” anti-ransomware comportamental em **Python + Machine Learning (LightGBM)**. DetecÃ§Ã£o multicamadas (assinatura/hash, extensÃ£o, padrÃ£o de nome, entropia, localizaÃ§Ã£o e monitoramento de processos em tempo real), com logging de auditoria e alertas (PyQt5 Â· SQLite). Resultado de **laboratÃ³rio controlado: > 95% de detecÃ§Ã£o e < 2% de falsos positivos** â€” limitaÃ§Ãµes e contexto de teste documentados no repositÃ³rio.
+**[Angel Guard](https://github.com/aquiles45/angel-guard)** — anti-ransomware comportamental em **Python + Machine Learning (LightGBM)**. Detecção multicamadas (assinatura/hash, extensão, padrão de nome, entropia, localização e monitoramento de processos em tempo real), com logging de auditoria e alertas (PyQt5 · SQLite). Resultado de **laboratório controlado: > 95% de detecção e < 2% de falsos positivos** — limitações e contexto de teste documentados no repositório.
 
-## ðŸŽ“ FormaÃ§Ã£o & CertificaÃ§Ãµes
+## 🎓 Formação & Certificações
 
-- **TecnÃ³logo em CiberseguranÃ§a** â€” FIAP *(em andamento)*
-- **Red Hat** â€” System Administration I (RH124) e II (RH134)
-- **FIAP** â€” QualificaÃ§Ã£o Profissional em CiberseguranÃ§a Â· QualificaÃ§Ã£o Profissional em GestÃ£o de SeguranÃ§a da InformaÃ§Ã£o
+- **Tecnólogo em Cibersegurança** — FIAP *(em andamento)*
+- **Red Hat** — System Administration I (RH124) e II (RH134)
+- **FIAP** — Qualificação Profissional em Cibersegurança · Qualificação Profissional em Gestão de Segurança da Informação
 
-## ðŸ“Š GitHub
+## 📊 GitHub
 
 <div align="center">
 
@@ -54,4 +54,4 @@ Gosto do que estÃ¡ escondido: **achar a falha que ninguÃ©m viu, provar o imp
 
 </div>
 
-<div align="center"><sub>ðŸŽ¯ Aberto a estÃ¡gio ou posiÃ§Ã£o jÃºnior em seguranÃ§a ofensiva (Pentest Web / AppSec) â€” SÃ£o Paulo ou remoto.</sub></div>
+<div align="center"><sub>🎯 Aberto a estágio ou posição júnior em segurança ofensiva (Pentest Web / AppSec) — São Paulo ou remoto.</sub></div>
