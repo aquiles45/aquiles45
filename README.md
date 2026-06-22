@@ -22,7 +22,7 @@ Gosto do que estÃ¡ escondido: **achar a falha que ninguÃ©m viu, provar o imp
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00eeff)
 
 **AppSec / Web:** OWASP Top 10 Â· Burp Suite Â· Nmap Â· enumeraÃ§Ã£o web Â· SQLi Â· XSS Â· IDOR Â· falhas de autenticaÃ§Ã£o Â· upload bypass *(praticados em laboratÃ³rio)*
-**Em estudo:** Active Directory / pentest interno (rumo ao CRTP) Â· BloodHound Â· Red Team Operations
+**Em estudo:** fundamentos de Active Directory / pentest interno Â· BloodHound Â· Red Team Operations
 
 ---
 
@@ -30,9 +30,7 @@ Gosto do que estÃ¡ escondido: **achar a falha que ninguÃ©m viu, provar o imp
 
 [![Angel Guard](https://github-readme-stats.vercel.app/api/pin/?username=aquiles45&repo=angel-guard&theme=tokyonight&hide_border=false&border_color=00eeff)](https://github.com/aquiles45/angel-guard)
 
-**[Angel Guard](https://github.com/aquiles45/angel-guard)** â€” anti-ransomware comportamental em **Python + Machine Learning (LightGBM)**. DetecÃ§Ã£o multicamadas (assinatura/hash, extensÃ£o, padrÃ£o de nome, entropia, localizaÃ§Ã£o e monitoramento de processos em tempo real), com logging de auditoria e alertas (PyQt5 Â· SQLite). **> 95% de detecÃ§Ã£o e < 2% de falsos positivos em ambiente/dataset controlado de laboratÃ³rio**, com metodologia, amostras e limitaÃ§Ãµes documentadas.
-
-> ðŸš§ **No prelo (prÃ³ximas semanas):** writeups de labs OWASP (IDOR, SQLi) Â· cheatsheet de enumeraÃ§Ã£o web Â· relatÃ³rio de vulnerabilidade modelo Â· diÃ¡rio de lab de Active Directory.
+**[Angel Guard](https://github.com/aquiles45/angel-guard)** â€” anti-ransomware comportamental em **Python + Machine Learning (LightGBM)**. DetecÃ§Ã£o multicamadas (assinatura/hash, extensÃ£o, padrÃ£o de nome, entropia, localizaÃ§Ã£o e monitoramento de processos em tempo real), com logging de auditoria e alertas (PyQt5 Â· SQLite). Resultado de **laboratÃ³rio controlado: > 95% de detecÃ§Ã£o e < 2% de falsos positivos** â€” limitaÃ§Ãµes e contexto de teste documentados no repositÃ³rio.
 
 ---
 
