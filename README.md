@@ -14,7 +14,6 @@
 ## 👋 Olá, eu sou o Aquiles!
 
 - 🛡️ **Segurança Ofensiva — AppSec & Pentest Web** · estudante de Cibersegurança na **FIAP** (último ano)
-- 🔎 Gosto do que está escondido: **achar a falha que ninguém viu, provar o impacto real e mostrar o caminho seguro pra corrigir**
 - 🧪 Método em laboratório: `enumeração → exploração autorizada → impacto → mitigação → relatório`
 - 🐍 **Python** aplicado à segurança · base sólida de **Linux (Red Hat)** e redes
 - 📚 Estudando: fundamentos de Active Directory / pentest interno · BloodHound · Red Team Operations
