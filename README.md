@@ -48,7 +48,8 @@ aquiles_fonseca_de_almeida:
 
 ### [Angel Guard](https://github.com/aquiles-almeida/angel-guard) — anti-ransomware comportamental (Python + ML)
 
-[![Top Language](https://img.shields.io/github/languages/top/aquiles-almeida/angel-guard?style=flat-square&labelColor=0d1117&color=555)](https://github.com/aquiles-almeida/angel-guard)
+[![Python](https://img.shields.io/badge/Python-555?style=flat-square&logo=python&logoColor=white&labelColor=0d1117)](https://github.com/aquiles-almeida/angel-guard)
+[![Machine Learning](https://img.shields.io/badge/ML-LightGBM-555?style=flat-square&labelColor=0d1117)](https://github.com/aquiles-almeida/angel-guard)
 [![License](https://img.shields.io/github/license/aquiles-almeida/angel-guard?style=flat-square&labelColor=0d1117&color=555)](https://github.com/aquiles-almeida/angel-guard/blob/main/LICENSE)
 [![Ver repositório](https://img.shields.io/badge/Ver_repositório-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/aquiles-almeida/angel-guard)
 
