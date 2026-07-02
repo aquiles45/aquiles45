@@ -13,11 +13,17 @@
 
 ## 👋 Olá, eu sou o Aquiles!
 
-- 🛡️ **Segurança Ofensiva — AppSec & Pentest Web** · estudante de Cibersegurança na **FIAP** (último ano)
-- 🧪 Método em laboratório: `enumeração → exploração autorizada → impacto → mitigação → relatório`
-- 🐍 **Python** aplicado à segurança · base sólida de **Linux (Red Hat)** e redes
-- 📚 Estudando: fundamentos de Active Directory / pentest interno · BloodHound · Red Team Operations
-- 🎯 Buscando **estágio / júnior** — São Paulo ou remoto
+```yaml
+aquiles_fonseca_de_almeida:
+  função:     "Segurança Ofensiva — AppSec & Pentest Web"
+  formação:   "Tecnólogo em Cibersegurança @ FIAP (último ano)"
+  método:     "enumerar → explorar (lab autorizado) → impacto → mitigar → reportar"
+  tryhackme:  "Top 2% · rank LEGEND · 207 rooms · 28 badges"
+  linguagens: ["Python", "Bash", "SQL"]
+  base:       ["Linux (Red Hat)", "redes", "Windows Server"]
+  estudando:  ["Active Directory / pentest interno", "Red Team Operations"]
+  buscando:   "estágio / júnior — São Paulo ou remoto"
+```
 
 ## 🧰 Tech Stack
 
@@ -40,6 +46,7 @@
 ## 🎓 Formação & Certificações
 
 - **Tecnólogo em Cibersegurança** — FIAP *(em andamento)*
+- **TryHackMe** — Offensive Pentesting · Jr Penetration Tester · Web Application Pentesting · Web Application Red Teaming *(Top 2% global)*
 - **Red Hat** — System Administration I (RH124) e II (RH134)
 - **FIAP** — Qualificação Profissional em Cibersegurança · Qualificação Profissional em Gestão de Segurança da Informação
 
