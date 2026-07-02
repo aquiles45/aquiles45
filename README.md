@@ -4,9 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=900&color=E8E8E8&center=true&vCenter=true&width=780&lines=AppSec+%26+Pentest+Web;Enumerar+%E2%86%92+Explorar+%E2%86%92+Impacto+%E2%86%92+Mitigar;Estudante+FIAP+-+buscando+estagio%2Fjunior)](https://github.com/aquiles45)
 
-[![Profile views](https://komarev.com/ghpvc/?username=aquiles45&label=Profile%20views&color=lightgrey&style=flat-square)](https://github.com/aquiles45)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aquiles-f-almeida)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-0d1117?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Cib3rb0t)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-0d1117?style=flat-square&logo=tryhackme&logoColor=88cc14)](https://tryhackme.com/p/Cib3rb0t)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=white)](mailto:aquilesalmeida45@gmail.com)
 
 </div>
@@ -25,6 +24,14 @@ aquiles_fonseca_de_almeida:
   buscando:   "estágio / júnior — São Paulo ou remoto"
 ```
 
+## 🏆 Conquistas
+
+[![TryHackMe Top 2%](https://img.shields.io/badge/TryHackMe-Top_2%25_global-0d1117?style=for-the-badge&logo=tryhackme&logoColor=88cc14)](https://tryhackme.com/p/Cib3rb0t)
+![Rank LEGEND](https://img.shields.io/badge/Rank-LEGEND-0d1117?style=for-the-badge&logo=tryhackme&logoColor=88cc14)
+![Rooms](https://img.shields.io/badge/Rooms-207-0d1117?style=for-the-badge&logo=tryhackme&logoColor=88cc14)
+![Red Hat](https://img.shields.io/badge/Red_Hat-Certified_(RH124%2FRH134)-0d1117?style=for-the-badge&logo=redhat&logoColor=white)
+![FIAP](https://img.shields.io/badge/FIAP-Cibersegurança-0d1117?style=for-the-badge)
+
 ## 🧰 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white)
@@ -39,9 +46,13 @@ aquiles_fonseca_de_almeida:
 
 ## 🛡️ Projeto em destaque
 
-[![Angel Guard](https://github-readme-stats.vercel.app/api/pin/?username=aquiles45&repo=angel-guard&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=c9d1d9&text_color=c9d1d9)](https://github.com/aquiles45/angel-guard)
+### [Angel Guard](https://github.com/aquiles45/angel-guard) — anti-ransomware comportamental (Python + ML)
 
-**[Angel Guard](https://github.com/aquiles45/angel-guard)** — anti-ransomware comportamental em **Python + Machine Learning (LightGBM)**. Detecção multicamadas (assinatura/hash, extensão, padrão de nome, entropia, localização e monitoramento de processos em tempo real), com logging de auditoria e alertas (PyQt5 · SQLite). Resultado de **laboratório controlado: > 95% de detecção e < 2% de falsos positivos** — limitações e contexto de teste documentados no repositório.
+[![Top Language](https://img.shields.io/github/languages/top/aquiles45/angel-guard?style=flat-square&labelColor=0d1117&color=555)](https://github.com/aquiles45/angel-guard)
+[![License](https://img.shields.io/github/license/aquiles45/angel-guard?style=flat-square&labelColor=0d1117&color=555)](https://github.com/aquiles45/angel-guard/blob/main/LICENSE)
+[![Ver repositório](https://img.shields.io/badge/Ver_repositório-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/aquiles45/angel-guard)
+
+Detecção multicamadas de ransomware (assinatura/hash, extensão, padrão de nome, entropia, localização e monitoramento de processos em tempo real) em **Python + Machine Learning (LightGBM)**, com logging de auditoria e alertas (PyQt5 · SQLite). Resultado de **laboratório controlado: > 95% de detecção e < 2% de falsos positivos** — limitações e contexto de teste documentados no repositório.
 
 ## 🎓 Formação & Certificações
 
@@ -50,13 +61,6 @@ aquiles_fonseca_de_almeida:
 - **Red Hat** — System Administration I (RH124) e II (RH134)
 - **FIAP** — Qualificação Profissional em Cibersegurança · Qualificação Profissional em Gestão de Segurança da Informação
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=aquiles45&show_icons=true&hide=issues,prs&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=c9d1d9&text_color=c9d1d9"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquiles45&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9"/>
-
-</div>
+---
 
 <div align="center"><sub>🎯 Aberto a estágio ou posição júnior em segurança ofensiva (Pentest Web / AppSec) — São Paulo ou remoto.</sub></div>
